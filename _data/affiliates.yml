@@ -35,3 +35,11 @@
   url: "https://spongebobwiki.org/"
   mainpage: "Main_Page"
   discord: "RgzmUBMPGP"
+- affiliate:
+  id: "yiwa"
+  name: "YouTube Independent Wiki Alliance"
+  description: "YIWA is an alliance of independently operated, community-run wikis dedicated to documenting YouTube and its content creators."
+  logo: "/images/logos/YIWA.png"
+  url: "https://yiwanetwork.org/"
+  mainpage: "index"
+  discord: "VYcV9WftAC"
